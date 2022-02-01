@@ -1,2 +1,0 @@
-# PrimaryExercice
-Proyect Of Example
